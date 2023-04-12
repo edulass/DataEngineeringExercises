@@ -3,8 +3,8 @@ import gzip
 
 def main():
 
-    AccesKey='AKIAULWFHM3JKQGECW4Z' # replace with your access key
-    SecretKey='jU4xyHKX9rfBNQEtuGwBcnsLemBnlTloH4ZEV7YX' #replace with you Secret Key
+    AccesKey='' # replace with your access key
+    SecretKey='' #replace with you Secret Key
     BUCKET_NAME = 'commoncrawl' 
     KEY = 'crawl-data/CC-MAIN-2022-05/wet.paths.gz' 
     
